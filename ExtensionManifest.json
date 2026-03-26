@@ -1,0 +1,9 @@
+{
+  "type": "Plugin",
+  "name": "Spicetify Bridge",
+  "author": "Niyah",
+  "packageId": "Niyah.SpicetifyBridge",
+  "version": "0.1.0",
+  "target-plugin-api-version": 40,
+  "dll": "Spicetify Bridge.dll"
+}
